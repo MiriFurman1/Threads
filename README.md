@@ -1,4 +1,5 @@
-   <h1>Full Stack MERN Threads App with Next.js 13, Tailwind CSS, and MongoDB</h1>
+
+    <h1>Full Stack MERN Threads App with Next.js 13, Tailwind CSS, and MongoDB</h1>
 
     <p>This project builds a full-featured social media web application called Threads using Next.js 13, Tailwind CSS, MongoDB, and other modern technologies.</p>
 
@@ -62,3 +63,5 @@
 
     <h2>Usage and Deployment</h2>
     <p>You can find the live demo <a href="https://threads-miri.vercel.app/">here</a>.</p>
+
+
